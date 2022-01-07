@@ -1,3 +1,5 @@
+# THIS PROJECT IS OBSOLETE AND NO LONGER MAINTENED. USE IT WITH CAUTION
+
 # Addict
 
 > Get a full Active Directory REST API in 30 seconds
